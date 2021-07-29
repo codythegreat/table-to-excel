@@ -109,6 +109,7 @@ There are 5 types of attributes: `data-f-*`, `data-a-*`, `data-b-*`, `data-fill-
 |           | `data-b-r-c`           | Border right color            | A hex ARGB value.                                                                           |
 | Fill      | `data-fill-color`      | Cell background color         | A hex ARGB value.                                                                           |
 | numFmt    | `data-num-fmt`         | Number Format                 | "0"                                                                                         |
+|           |                        |                               | "#,##0"                                                                                     |
 |           |                        |                               | "0.00%"                                                                                     |
 |           |                        |                               | "0.0%" // string specifying a custom format                                                 |
 |           |                        |                               | "0.00%;\\(0.00%\\);\\-;@" // string specifying a custom format, escaping special characters |
